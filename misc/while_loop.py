@@ -1,4 +1,4 @@
-while 1==1:
+while True:
     print('What is yout name?')
     name = input()
     print('Hello '+name)
