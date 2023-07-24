@@ -1,5 +1,6 @@
 #key(), values(), items() : good expound
 #for k, v in dict.items()
+#good checks
 birthday_dict = {'Simon':'June 12', 'Maya':'April 16','Dave':'November 30','Mike':'July 30'}
 while True:
     print('Enter a name or leave empty to quit')
